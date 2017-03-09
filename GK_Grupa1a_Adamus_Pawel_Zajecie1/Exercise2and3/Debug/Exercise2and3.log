@@ -1,0 +1,6 @@
+﻿  Exercise2and3.cpp
+d:\pulpit\programowanie\c#\programowanie iv\gk_grupa1a_adamus_pawel_zajecie1\gk_grupa1a_adamus_pawel_zajecie1\exercise2and3.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\pulpit\programowanie\c#\programowanie iv\gk_grupa1a_adamus_pawel_zajecie1\gk_grupa1a_adamus_pawel_zajecie1\exercise2and3.cpp(69): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pulpit\programowanie\c#\programowanie iv\gk_grupa1a_adamus_pawel_zajecie1\gk_grupa1a_adamus_pawel_zajecie1\exercise2and3.cpp(70): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Exercise2and3.vcxproj -> D:\Pulpit\Programowanie\C#\Programowanie IV\GK_Grupa1a_Adamus_Pawel_Zajecie1\Debug\Exercise2and3.exe
+  Exercise2and3.vcxproj -> D:\Pulpit\Programowanie\C#\Programowanie IV\GK_Grupa1a_Adamus_Pawel_Zajecie1\Debug\Exercise2and3.pdb (Partial PDB)

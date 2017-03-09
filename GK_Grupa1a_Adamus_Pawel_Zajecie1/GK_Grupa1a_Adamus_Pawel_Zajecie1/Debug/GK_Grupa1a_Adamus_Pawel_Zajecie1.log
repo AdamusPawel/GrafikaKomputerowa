@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (GK_Grupa1a_Adamus_Pawel_Zajecie1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Exercise4.cpp
+d:\pulpit\programowanie\c#\programowanie iv\gk_grupa1a_adamus_pawel_zajecie1\gk_grupa1a_adamus_pawel_zajecie1\exercise4.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\pulpit\programowanie\c#\programowanie iv\gk_grupa1a_adamus_pawel_zajecie1\gk_grupa1a_adamus_pawel_zajecie1\exercise4.cpp(71): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\pulpit\programowanie\c#\programowanie iv\gk_grupa1a_adamus_pawel_zajecie1\gk_grupa1a_adamus_pawel_zajecie1\exercise4.cpp(72): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GK_Grupa1a_Adamus_Pawel_Zajecie1.vcxproj -> D:\Pulpit\Programowanie\C#\Programowanie IV\GK_Grupa1a_Adamus_Pawel_Zajecie1\Debug\Exercise4.exe
+  GK_Grupa1a_Adamus_Pawel_Zajecie1.vcxproj -> D:\Pulpit\Programowanie\C#\Programowanie IV\GK_Grupa1a_Adamus_Pawel_Zajecie1\Debug\Exercise4.pdb (Partial PDB)
